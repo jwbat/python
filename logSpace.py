@@ -1,4 +1,4 @@
-from tkinter import *
+from tkinter import Tk, mainloop, Canvas
 from tkinter import ttk
 import numpy as np
 import random
